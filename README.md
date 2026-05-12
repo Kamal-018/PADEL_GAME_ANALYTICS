@@ -44,6 +44,8 @@ venv\Scripts\Activate.ps1
 pip install -r requirements.txt
 python src/main.py
 ```
+<img width="1365" height="700" alt="image" src="https://github.com/user-attachments/assets/c1bd9b94-c380-45ef-ba94-ca8ea7db1398" />
+
 
 Outputs
 - Annotated video: `output/output_video.mp4`
